@@ -4,7 +4,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Nike Website",
+  title: "Nike",
   description: "Nike Website Clone with TailwindCSS and Next.js",
 };
 
